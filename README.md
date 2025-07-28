@@ -1,7 +1,3 @@
-Absolutely! Here is your improved **README.md**, now including a sample output section.
-
----
-
 # Shamir Secret Recovery Assignment
 
 ## Overview
